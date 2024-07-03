@@ -15,7 +15,7 @@
     "aplayer": "^1.10.1",
     "naive-ui": "^2.34.4",
     "nuxt": "^3.7.3",
-    "nuxt-windicss": "^2.6.1",
+    "nuxt-windicss": "^3.0.0",
     "qrcode": "^1.5.3"
   }
 }
